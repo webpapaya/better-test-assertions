@@ -9,6 +9,8 @@
   "author": "Thomas Mayrhofer",
   "license": "WTFPL",
   "dependencies": {
+    "chai": "^4.2.0",
+    "chai-sorted": "^0.2.0",
     "hamjest": "^3.2.3",
     "mocha": "^6.0.2"
   }
