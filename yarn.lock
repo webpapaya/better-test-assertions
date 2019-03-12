@@ -143,11 +143,6 @@ camelcase@^5.0.0:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-5.2.0.tgz#e7522abda5ed94cc0489e1b8466610e88404cf45"
   integrity sha512-IXFsBS2pC+X0j0N/GE7Dm7j3bsEBp+oTpb7F50dwEVX7rf3IgwO9XatnegTsDtniKCUtEJH4fSU6Asw7uoVLfQ==
 
-chai-each@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/chai-each/-/chai-each-0.0.1.tgz#d195674e02c2ab3210a2b11f4d7f3ca0d7f46712"
-  integrity sha512-W0G98eDRmV4ahXjGBXHsljhXU2MBLQquP2Eo+oOikqywGO0QLYK8tBUKkFGwl7KPQWeeQPLssvRbQXFsIk6Xlg==
-
 chai-sorted@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/chai-sorted/-/chai-sorted-0.2.0.tgz#1fee8f07fef4b0043bdff9e07022a0812c12ef55"
@@ -787,6 +782,11 @@ isobject@^3.0.0, isobject@^3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/isobject/-/isobject-3.0.1.tgz#4e431e92b11a9731636aa1f9c8d1ccbcfdab78df"
   integrity sha1-TkMekrEalzFjaqH5yNHMvP2reN8=
+
+jest-expect-standalone@^24.0.2:
+  version "24.0.2"
+  resolved "https://registry.yarnpkg.com/jest-expect-standalone/-/jest-expect-standalone-24.0.2.tgz#bcfce0648c5697d2064797c098138ed964d47eed"
+  integrity sha512-GXYMJd0l1vs2AYzIbTEn50SbW6hj6+kexPwpX4V0YMSxRBkYdan52nv+GZR0VsE2btJP/3lQgdWdj3MfQ5dxEA==
 
 js-yaml@3.12.0:
   version "3.12.0"

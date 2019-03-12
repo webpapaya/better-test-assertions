@@ -12,6 +12,7 @@
     "chai": "^4.2.0",
     "chai-sorted": "^0.2.0",
     "hamjest": "^3.2.3",
+    "jest-expect-standalone": "^24.0.2",
     "mocha": "^6.0.2"
   }
 }
